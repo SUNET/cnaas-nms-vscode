@@ -6,7 +6,7 @@ This extension can perform syntax check against an CNaaS NMS API before commitin
 
 Syntax check of settings YAML file:
 
-\!\[syntax check\]\(cnaas-nms-vscode-errorscreen.png\)
+![syntax check](cnaas-nms-vscode-errorscreen.png)
 
 ## Requirements
 
