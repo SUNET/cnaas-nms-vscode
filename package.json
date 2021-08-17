@@ -2,7 +2,7 @@
 	"name": "cnaas-nms",
 	"displayName": "cnaas-nms",
 	"description": "Syntax check for CNaaS-NMS",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "indy",
 	"engines": {
 		"vscode": "^1.46.0"
